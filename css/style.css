@@ -1,0 +1,4 @@
+#hero {
+    background-image: url("../images/hero.png");
+    background-size: cover !important;
+}
